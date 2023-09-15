@@ -13,6 +13,16 @@ The app often integrates with audio libraries to fetch and display songs, images
 # Sign Up screen for new user
 ![Screenshot_2023-09-15-15-28-57-680_com example music_player](https://github.com/Kanishk0507/flutter_music_player/assets/98214136/af57e95a-16a5-4868-a4b5-538d3e632836)
 
+# User created successfully
+Redirect to login page 
+![Screenshot_2023-09-15-15-49-09-356_com example music_player](https://github.com/Kanishk0507/flutter_music_player/assets/98214136/739361bc-a0dd-4bcc-b132-9b97bd3d9736)
+
+# User signed in successfully
+![Screenshot_2023-09-15-15-50-05-170_com example music_player](https://github.com/Kanishk0507/flutter_music_player/assets/98214136/d0af437e-c7fa-4cbf-96fe-ca8eadda1672)
+
+# Home page 
+![Screenshot_2023-09-15-15-50-08-259_com example music_player](https://github.com/Kanishk0507/flutter_music_player/assets/98214136/e306e1ad-8a1d-4441-90ac-02317aaad46b)
+
 # Song screen
 ![Screenshot_2023-09-15-15-29-53-055_com example music_player](https://github.com/Kanishk0507/flutter_music_player/assets/98214136/2b60308f-b713-4e9e-af78-a6ca0308baa9)
 
